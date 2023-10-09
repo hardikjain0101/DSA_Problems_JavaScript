@@ -20,3 +20,6 @@ console.log("Write Your Code Here");
 10. Power of no
 11. Perfect Square
 12. Armstrong
+
+### How to Contribute ✍🏻
+Checkout Contribute.md guide. 
