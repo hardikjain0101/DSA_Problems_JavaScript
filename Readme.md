@@ -20,6 +20,7 @@
 |12.| Perfect Square |
 |13. | Armstrong |
 |14. | Reverse Number |
+|15. | Strong Number |
 
 ### How to Contribute ✍🏻
 Check out the Contribute.md guide. 
