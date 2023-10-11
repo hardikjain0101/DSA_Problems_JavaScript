@@ -2,9 +2,9 @@
 
 1. Fork the repo.
 2. git clone https://github.com/ganeshpatil386386/DSA_Problems_JavaScript.git
-3. cd cd DSA_Problems_JavaScript
-4. Create folder with github username
-5. Solve the problems & Create seprate file for each problem.
+3. cd DSA_Problems_JavaScript
+4. Create a folder with GitHub username
+5. Solve the problems & Create separate file for each problem.
 6. Create Branch
 
 ```
