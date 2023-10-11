@@ -18,7 +18,7 @@
 |10.| Leap Year|
 |11.| Power of no|
 |12.| Perfect Square |
-|13. | Armstrong |
+|13. | Armstrong | 
 
 ### How to Contribute ✍🏻
 Check out the Contribute.md guide. 
